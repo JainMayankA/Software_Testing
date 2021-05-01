@@ -1,0 +1,16 @@
+1,0.0,Off,Vertical,Deployed,21-22-43
+2,0.3,Off,Vertical,Deployed,21-24-25-43
+3,0.4,Percent10,Vertical,Deployed,21-24-27-28-43
+4,1499.9,Percent10,Vertical,Deployed,21-24-27-30-31-43
+5,1500.0,Percent15,Vertical45,Retracted,21-24-27-30-33-34-43
+6,3000.0,Percent15,Vertical45,Retracted,21-24-27-30-33-36-37-43
+7,3000.1,Percent25,Vertical45,Retracted,21-24-27-30-33-36-39-40-43
+8,4999.9,Percent25,Vertical45,Retracted,21-24-27-30-33-36-39-42-43
+9,5000.0,Percent30,Vertical45,Retracted,-
+10,8000.0,Percent30,Vertical45,Retracted,-
+11,8000.1,Percent40,Horizontal,Retracted,-
+12,10999.9,Percent40,Horizontal,Retracted,-
+13,11000.0,Percent50,Horizontal,Retracted,-
+14,13000.0,Percent50,Horizontal,Retracted,-
+15,13000.1,Off,Horizontal,Retracted,-
+16,50000.0,Off,Horizontal,Retracted,-
